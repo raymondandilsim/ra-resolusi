@@ -2,10 +2,10 @@ RENCANA PINDAH KOTA
 - Tanjungpinang
   * setelah lulus
   * membuat rencana
-    ^ rencana detail ngapain aja
-    ^ kerja atau belajar lagi
-- Batam
+    ^ belajar lagi
+    ^ cari kerja
 - Tembilahan
-  ^ Kerja
+  ^ cari pengalaman kerja
+- Batam
 - Jambi
 - Kampung
