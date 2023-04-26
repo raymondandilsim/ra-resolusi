@@ -3,6 +3,7 @@ RENCANA PINDAH KOTA
   * setelah lulus
   * membuat rencana
     ^ rencana detail ngapain aja
+    ^ kerja atau belajar lagi
 - Batam
 - Tembilahan
   ^ Kerja
